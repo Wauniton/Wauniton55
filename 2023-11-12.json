@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Gonzales",
+  "age": 18,
+  "address": {
+    "street": "Suazi Parkway",
+    "city": "Pomova",
+    "state": "DE",
+    "zip": "03259"
+  },
+  "contact": {
+    "phone": "(269) 978-1603",
+    "servicePhone": "800518659"
+  },
+  "birthday": "1999-02-02T15:31:41.158Z",
+  "ip": "173.40.21.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Ranna ivnon epla tap ib eme aje ecziube umlagga zoworwo vieg kuc ah cuk labovbe kosi ta. Zev cig wihlaz apo nibemufo upsija isele icfuki mubug zu vovbaz essebo puhcopum nalotu voipfin ilnevsob kudli jowhe. It etoofu miali jicuw suri bibfi mucolej jod zuner egatemow jamvusuz serop zohlodez ej urejibwep.",
+    "bio": "Nejgoh nu ukfes luddap ve apwe tib ico suwif egkel pago sez wijomugov. Mamipbo be ivovuw jerkegis reor sudga sep mi fihuti nozigaf udufebu hacze vujovak malba vifam seijna. Ho gal camgonhet lekpipi owvuk vudik gi ne zokkeg hi couc fem."
+  },
+  "apiKey": "5c99c7c8ecaef1adc7b2fb9803794a48ef5e63fca37e1231fdf803c360ffc6ea",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
