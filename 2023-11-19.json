@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Larson",
+  "age": 24,
+  "address": {
+    "street": "Cipsoh Circle",
+    "city": "Tiojtu",
+    "state": "MD",
+    "zip": "83577"
+  },
+  "contact": {
+    "phone": "(540) 876-4773",
+    "servicePhone": "800624853"
+  },
+  "birthday": "1989-03-24T17:17:16.490Z",
+  "ip": "244.245.156.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Oc vac haw asanifim calpudhe be rol jime nobap lobcolzat vofezfu cini wuh owu ofampi pamlod. Jeh we bobpaif wi cuzitzim fumpupjiw kuwvigpo piozo gage wemdec voknisu wezijal puga naamgo reknec. Va uk haeb ofdobvo ru va ewe mukcohhil jo vujemge daflel umeun puhuz galzalka bem cikob rapwoc.",
+    "bio": "Fagad gejmora ovazofil ekuaz fupbu pipledgi iw tadweh usnurlo bo sud gi tazuc aze. Pad egokodtu ujoowa tev jomlow bit ta hudon nivepawek sipah jot ugezha po wi jepnafge gefuhmuk ca. Balkubhu ehi gak afvi lian wazlofo jozum okigudka bu olisi hinituvuv san juonnah. Upheku ze woke dutlul fali iriobu iw tob regzo da tu jeocu tup covmam esesog dacwiro goj wojje."
+  },
+  "apiKey": "cef17d4370b0df9af830537938051efd2546950ec66f15bffea5ad9e3ae59c70",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
