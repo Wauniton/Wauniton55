@@ -1,0 +1,26 @@
+{
+  "name": "Mike Parker",
+  "age": 23,
+  "address": {
+    "street": "Hoav Key",
+    "city": "Noswivda",
+    "state": "AL",
+    "zip": "32701"
+  },
+  "contact": {
+    "phone": "(213) 777-1773",
+    "servicePhone": "800211235"
+  },
+  "birthday": "1982-10-03T16:24:01.971Z",
+  "ip": "128.139.71.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Dilu za mejajge vujla melju lacafi utdu duzi fihovo li zisu celi go jek vuw nu eclav adhaezi. Ga legdusapa be ucozem ismu aploh jutvur el sopriwa ijki tuvineona ubimu ceoptag tu urookmez pezti igzu mipco. Opoigka esdo eviwag bal zavaete pivuta se hecoh nu zigre momifmuj matzot tilla wojamha cijseb decno. Ce ka cufacta ewilawe fiel inuolo bag nud utezip tafotre mozfu bahnud.",
+    "bio": "Rijapuno rahita un su zuse da con ulanez go nomi gocravkuc bahugfab. Cic paobupe ekkuviju goje ogevipmav sezbaw uni atgigsev alaawka tegnaze nemlindu owuceav fozjo no. Facwe do juf numic guvtojsim foohgar ojtas ec homlun levhiguza ok uboozuhur ugziwiji gu racivtej irapiw dom. Dur reav se avfikus fepaz hot bupzik tojetdas ih eksiule pi gadedukiw ufulajpaz tidindik sopamno fizamzol. Vaubo jigonor lu betutusi woc san jegatama figcuk num ha guto vuv. Genvunuwe rud igoeta adawu zuddec co mulwigo uku us lo emju ekjefwe jon belegud. Lic jisap rojeh ana eh mebvuv pu ka em faw dudramde pelonuv juvror boh ewbuvmav."
+  },
+  "apiKey": "56a84314ca1e5be563298f9dc53c51f2574624bcf12acfa5553763a9d6320784",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
