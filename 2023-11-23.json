@@ -1,0 +1,26 @@
+{
+  "name": "Alan Hodges",
+  "age": 46,
+  "address": {
+    "street": "Rilu Heights",
+    "city": "Saludcet",
+    "state": "MD",
+    "zip": "97596"
+  },
+  "contact": {
+    "phone": "(474) 400-6373",
+    "servicePhone": "800376781"
+  },
+  "birthday": "1987-08-30T03:01:55.802Z",
+  "ip": "144.190.156.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Nusme bo oruzevove ukzo uzafaz ceevo elebubpe hudinma almummo pov we badcakur. Jicomte kuljun be ofmu sa wij tovfu awzowmi wugbe hopbedak guorocut fom guwrukcuv evefopel jer fehotca. Fofek rutodif iwu niiktow ri hewboaje panas tam he ifotu figwas cevrun la te sufu wizan. Oglakvad ohibe dufoh lodum epobomet mop sal icimuuc ce madcekak povku netipo iv gibedon bol ala bosolbuv. Cik wieweli zeafo rafri pa babhok buzte hodefa oko moefemu mireg gouzolu. As ah omlo pilvas semewo je pahcotci ranzoah deir hoaki fuv ran fej vohazuwiw tahuwev govagmed zirsu.",
+    "bio": "Nec si dikkaco awi noguga ek lokotuf zu gu jevsoz itnimbov soba jol dusicmeh. Sizavew seam atimil finaze kow lifi tul bimba iw ji riwanmo cuk wegtuz vatug cefakadew ruhikez alaesowem cif. Wodrir iwo kindo lijipwo maavrek namad vime bogpopib obvuki jam ho ivogihjes wecbe are ga."
+  },
+  "apiKey": "7bac9601bbf5778e2a1e98913eeda4992f426e89430dd5fc7b7d5b0f49d4d4fb",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
