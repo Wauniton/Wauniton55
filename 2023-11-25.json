@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Torres",
+  "age": 54,
+  "address": {
+    "street": "Mizo Key",
+    "city": "Haudot",
+    "state": "ND",
+    "zip": "70121"
+  },
+  "contact": {
+    "phone": "(576) 852-9857",
+    "servicePhone": "800558142"
+  },
+  "birthday": "1961-12-29T09:15:51.657Z",
+  "ip": "74.172.171.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Wilse afahossi zilespa raza fe onizuafo edjim ajulohtuz asigok inici oj haczizgok ja ce. Kes tiel kat hizwota tuhvu to dadnik nenac cijonu vic rab vuk isufatuke huwulbo ho vibu. Lu kifozika avhew fathawjab fan tof lahikjod gimemnig nizjo agtuvu mi kilir wowic gupehpec pomfok la fiz.",
+    "bio": "Ri cefizid hedcabwum rot gibcorjup wa gi ji sisracfin ubsor puhlibod wirir mi. Icnan diwlamli dilok va hafve mozto wojejiij wawjiuru de gegukep wog wabhas sev aga hawetmid. Fehu orom muhofulit ivtaf vonosote vavcil nes kol akhu im evodib wa uzze ko juoneb weisbar. Gup hokiohe hin otozomi sogzabe edo enu pajwejuf ivutpu cez ewebok co lud toip. Ferif apena la ge ru faridi odobalpag deldubi lip dubteb ebo vibsi lug. Gagwar sekakraf ziro jer ipsahje tut elhaj ze wi wogwe ewi vavwijwuh ge hi. Kecewum emiluhu cosuv wac emo ijdar giaz furo vukakir seweg vap kakenofog it cu wegduc uf agahe wupi."
+  },
+  "apiKey": "c67750492cd7ecf8ee52017ef5ae50eac308ba8d2eba323d73a8b8bf54262f57",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
