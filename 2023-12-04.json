@@ -1,0 +1,26 @@
+{
+  "name": "Tom Hicks",
+  "age": 20,
+  "address": {
+    "street": "Wisi Manor",
+    "city": "Zibavcok",
+    "state": "MO",
+    "zip": "19500"
+  },
+  "contact": {
+    "phone": "(979) 475-8312",
+    "servicePhone": "800519742"
+  },
+  "birthday": "1988-01-09T05:22:38.837Z",
+  "ip": "82.209.217.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Zattur kud zecerag opeti za macnez fuole egjugaf rapra wael abeibfok ewugu muz wiz la sutmo. Ki kavefah uzfa vem ja pizcifzo pow col comamu lonuw inevohef panes wik aco tijted. Fadcok map loofeze zucnel osmebfe ukgomabu mola cad oga hepi goh emsak ego uz fog mutwivah jiuvgip.",
+    "bio": "Nulwuaz tegifonan gevpow on he kahiot tevat emvim walpa nepnuz vo tojuti rukhuter hehuz meznuzro. Ge taderwu az wip ub uwmofevu kavbokire wevoki sinde cep wofamsed dujla ebauz haz ku mugab zujbejjab. Aligdoh duhi uputu muvogo ehatobir kudja jec ni zu bukod ezovi welebe dinuvek sat muonco."
+  },
+  "apiKey": "913cd3dacf6ef15f45494f64be38daf341e4379f640b9049efd3f040c93a023f",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro Member Countries"
+  }
+}
