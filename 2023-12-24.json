@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Campbell",
+  "age": 22,
+  "address": {
+    "street": "Gamfeh Drive",
+    "city": "Lotileez",
+    "state": "IA",
+    "zip": "97544"
+  },
+  "contact": {
+    "phone": "(967) 939-5848",
+    "servicePhone": "800939718"
+  },
+  "birthday": "1998-08-09T06:27:39.146Z",
+  "ip": "197.102.72.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Retbul lav buripmok geasizof vihelosa pi wadaal avmep tabpaar cetlodu ega guv asutosabi igibir viso zirepsil eg zomra. Has bicsa da da nib wav peocu pec cu en bacsik uzu gobecel zatep tonhuuvu wigi sen bib. Viit nud emutotan dum wiif vi ro ek vitodvo firif bepgatcec wuzhum himimad sa kavebok zotlu.",
+    "bio": "Muztezfa pehueco ze cun tesefo duclo ajuv jabuva bof gahoglug takdospon gogeco pebo reciit beven ritol. Ufovaw vidlaku zef co eloukne eci ohi selazuhol aluf finuw ocifa lewu gepnahte tulhu ic. Daw wahev mitde ucu hobuwbom wa ulugit komizur motwime erdaj zeniz fafris niga kuv."
+  },
+  "apiKey": "7a80f9dbdfa2789cb030a8d472675f20b0aa10d245024d2fd04bfa62a8211587",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
