@@ -1,0 +1,26 @@
+{
+  "name": "Maude Osborne",
+  "age": 54,
+  "address": {
+    "street": "Jiwmi Pike",
+    "city": "Jinliko",
+    "state": "OK",
+    "zip": "50502"
+  },
+  "contact": {
+    "phone": "(279) 924-5906",
+    "servicePhone": "800422541"
+  },
+  "birthday": "1959-06-18T20:18:54.309Z",
+  "ip": "52.223.102.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Nusika ek opuus rehob vobnub liwozmac izatoh ado hu pu sueb ot dac kuclujod marajru radjeh gupcow vaccic. Fe zaweto nerpeb tu lilusa tomgoji zu ugocuep zepgocod pulbam jimcojkuv dotaz udvovogo ul kug. Genufugo vudtij oz bejajoza jijarjot ciul kefijek dogpub lizus omorawhe nongo oseidulob. Ho keaje pubil geiju pu ji hifhejo bafunuv izeguar cootkeg ujizas toecabu.",
+    "bio": "Runuk rudpaer ceukotat kepu sasas bovnukoni iteeku ji du eretarmeh ivebeir boocla. Zoz vuze kiatewit lig ro potosur fawot bike omeje wuroffez gicce emohi. Vuvjuc upemi tel juzho zivun ujso tamevfi putmijwu cakodag ag ruko huwpodmij."
+  },
+  "apiKey": "c6a3cc49061d417f44e2213d6745da5d2f2ed8adea264d8abf505823281a5013",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
