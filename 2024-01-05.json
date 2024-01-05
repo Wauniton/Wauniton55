@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Walters",
+  "age": 37,
+  "address": {
+    "street": "Dadow Glen",
+    "city": "Fawnegih",
+    "state": "RI",
+    "zip": "38387"
+  },
+  "contact": {
+    "phone": "(549) 286-8241",
+    "servicePhone": "800589884"
+  },
+  "birthday": "1968-09-04T22:12:09.906Z",
+  "ip": "141.23.243.148",
+  "foo": "bar",
+  "profile": {
+    "about": "To oghagome ipoitiis adsa ic zocnejoru coduh begeca mufe negcilre mizcaot vaf. Jogte popzoani heetu lija pep hoz keiruiba cohed obaor ari ojzawti vica mezohidof. Buaheso ma kon sur jurcuag rumkud sojona gitalbas esisa kumurat vidoj lorwatga fudewip bidrow agaco he re.",
+    "bio": "Faszeuni piktowsu roav re hub aw susvolzo fupi zuhop igces nizdode givicen of takmah vi fu ubizoh. Awber kugge robalta boponoc garez lep gusap der mit silarga wucag mugra wi ivgedce ro je garin ala. Cupzikit suru berafci oguuwoibi vojepzu nouku zi jopog wa hu bawmelfav itravu ihvubo ovto rin. Da uzafuf cuos doddi kencu puufoub gocco we fugtuja uteev casav ce zithecatu pura rouvga."
+  },
+  "apiKey": "2f6d75813d57b2413a067bbc023424a1faf0b157df949c39aec4939f9e5de85d",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
