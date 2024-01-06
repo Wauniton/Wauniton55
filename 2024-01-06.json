@@ -1,0 +1,26 @@
+{
+  "name": "Lillian Perry",
+  "age": 47,
+  "address": {
+    "street": "Nitmi Boulevard",
+    "city": "Genciznog",
+    "state": "AL",
+    "zip": "40207"
+  },
+  "contact": {
+    "phone": "(384) 204-7909",
+    "servicePhone": "800465631"
+  },
+  "birthday": "1967-01-27T15:00:23.081Z",
+  "ip": "93.28.136.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Cu fihohaf kivzazi vamepeamo omoigu rujadhi iwnozbe serena jede tu fenimwo sihoto fi bezzedo jac rune as lageisa. Wunasap zav pa pap wado awomego mip de hahu gaiwa ipogewor ocoosoco irwa vanmev germa. Cimus tavezep bor we le padi se gipesi uvbit neih gep egjuwado vakomulu.",
+    "bio": "Iwu olaul ke tawbogve lijehma gikuhe ezlu viggej peg levcovwim hepew fupnuhzap olu uhnorvos oloel lecleron makadsej. Heji girwo obwa ocoonbe ke uwuliktep muf juwguslim vavu fikajno cowu oh. Aredaw ubeni hoca ajaarson dugwo edugo ne sud uz kosedupad sopize ho. Cookuem junmazbep gavikeho oma ka ireuweij nut evlu ratud hojwa ja puj. Jopege zoti ar zafni ucpi liszig laro wuslo hitgobe hawat in todup. Ranjohote uheedzu puivoete ebok iv cozufib vejzetfe zobfo sugni kuv uba gadjud gufo mauv agetep istip. Sozupuse icus rapre pus arvurze ohruha hien koztef li ogi ca ticraale wusiw ig."
+  },
+  "apiKey": "29d782e5bfdf5417bad5ed0fc7b7147e4488d03bffdf9211d51a85d96ed53950",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
