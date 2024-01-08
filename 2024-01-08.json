@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Sparks",
+  "age": 34,
+  "address": {
+    "street": "Ficzub Street",
+    "city": "Werepifoh",
+    "state": "MT",
+    "zip": "09952"
+  },
+  "contact": {
+    "phone": "(780) 842-6546",
+    "servicePhone": "800671484"
+  },
+  "birthday": "1982-05-20T13:24:54.203Z",
+  "ip": "127.186.73.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Er fon banso kirduhi geiva avgot fomgud ses bijewku fiwo lofawi amhewwow. Liv satedrot opiromed cagranuni pa musigu zietu kucouk zifisehi nohjebnul me liheged pohni. Mo ren ru he urdir fezsoh ne jaju sudosso wun tahehlo gupuwze ga huzritba. Gironfi duz divmizak iwokas mocfirad lole ubhah pektu paclemfi jak how foawo fal cip jifobfo vubsez. Wevjorved ficuguno vijri difel kahaz ehzucod uhmisala da kil ek bo fezob fuv pivag. Boikcuc ucokinob wesima ren ozasic tupcevri ade we gotahteh bu ler wag.",
+    "bio": "Diwaja ifoki becofeis puku ra lem ve we ipa hokvubwu wibwu wi zof nif wegi. Iru litifaru aku uv obgun ge on jor nic boada guiz etmosa ruwuvni lus wek arduj juh irizirlim. Kor urupev hoejo fente kitkolce wi nufin hakokrev nokdaci tis sar duz pub gigimeedo. Pijuz ol put pafla gu wocnuh rosjaf mitu ger hodecob luhodavo sez puzfolev cikjos regov. Dorzedoj ketmudo fi wik ucobasvi zun cusi kojikdok atulenos anwan ku fe bi izodap."
+  },
+  "apiKey": "402c14547c7fc4e28b9a9485e4402c0afaa72d8799836cca957025b794eadc58",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
