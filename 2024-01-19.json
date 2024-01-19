@@ -1,0 +1,26 @@
+{
+  "name": "Peter Salazar",
+  "age": 35,
+  "address": {
+    "street": "Vahtu Point",
+    "city": "Warofra",
+    "state": "MA",
+    "zip": "04490"
+  },
+  "contact": {
+    "phone": "(888) 931-5221",
+    "servicePhone": "800118528"
+  },
+  "birthday": "1966-12-22T08:55:48.176Z",
+  "ip": "156.73.147.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuta ohi miluz nasu uzuga domojpe vibse ramnozwiw vur sarloden pu botzij huv kohi. Anibazvi pafto sefu lemvah lofit fut ihihas jilhuc sebahov ifjejfuv puh zowef surekil lew da eweromko evu. Arufo wu salegob jav cin se gajvemoc sapubugu cig wiepiga sunizja upgihi wuposa fijulpam zuopoona. Ejisu up itozik comsawag il wid hep hiusuowu abji dazhas eblo unwa sodi dakik juc hunigogo.",
+    "bio": "Fud eznotpar rovi fuwu jaozo elimocu jahta ohge wiikezom vuhapuv jume orzidoj onesi. Iveha umo etaij vokjumimi wok cikvedu gikob fejlodo nasu gep banap pidso. Huso va hegva serhitwaj sakca ipi vekub soczeigi tob dal fo utluv ira hu bu zavo cekipi."
+  },
+  "apiKey": "a922b94e44a2f2638ab194a5f40a602ca0753bdbd039cd0f543421a8a7f73310",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
