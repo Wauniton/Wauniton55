@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Allen",
+  "age": 44,
+  "address": {
+    "street": "Tupzat Heights",
+    "city": "Avepeni",
+    "state": "MN",
+    "zip": "14675"
+  },
+  "contact": {
+    "phone": "(948) 722-8445",
+    "servicePhone": "800375488"
+  },
+  "birthday": "1998-06-05T15:08:01.196Z",
+  "ip": "132.244.63.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Ciudmu zohoj tuzafiko zek kajulto gelzaplin re suuz rizmictul mipronso kulle ma uv ecsi ube ena. Ube wikpum intas fofun vowhasa gesojiv gek arcowna ka enodo dipi micrarri. Ezna hupa ignugir rofesat boomsop ligkozol og do capbez vovop ce sa uba tobkacdi ev beto wotejoc.",
+    "bio": "Goojanal ozoohsun piutco mi lise cejoncen gilawsu wulte nehdiwcum er wucen jihom naztov zucoba wowelooc. Hekihej cilwu ubacaz sekmigof il mifvefjik nonfuf itami cahko emi jusgi totukdu ikdi bon. Pohnippo nan mus nunaw ic nuna juj woz bip me arsaffo mejveg cifob migogac toflup. Cenen ju udoge pejcup fijovli udu cowwafopo caken uleteguc oh pisir wan."
+  },
+  "apiKey": "05f2d9a0c1c559ce03510779743436d28120b4eecc894eee96abc6993d32f5b5",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
