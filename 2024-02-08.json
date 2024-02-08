@@ -1,0 +1,26 @@
+{
+  "name": "Luella Garza",
+  "age": 39,
+  "address": {
+    "street": "Reptu Square",
+    "city": "Fitsifje",
+    "state": "ME",
+    "zip": "00705"
+  },
+  "contact": {
+    "phone": "(842) 813-3145",
+    "servicePhone": "800632927"
+  },
+  "birthday": "1966-11-19T22:31:22.691Z",
+  "ip": "188.23.21.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Soppenda jab mepre funopmu ku piisuwe wa rolep wif vehsiw odu fep ebeboh jodu udasav duhedala. Tusurtoc buzod waci ta ovtif sa epzat ozemieli gosjozsi ub esa soholnok evfom ev. Zo to bajawi lel ofa lizlew viah uvned wicki jan osanok biibe eha koecu kegahog dekpuli.",
+    "bio": "Lusuh vodriip vame ujaseog ikovemce hifjuug rihsi uru up putip fuvsok arsaddi fiha sorzu movafol fofufri higlel. Wer ziow ro serejocop ikovesi etim ri bi labetoc lotiliku kenojin movola cekeho. Vazhu vodva zudrow serisci wonluppu binuse cezukhe deeci wetuna paesi jobir vuogna."
+  },
+  "apiKey": "7b020f186cd51713461a77fa011da5cd32fb8c17bc87bcc4297570a785c50a0f",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
