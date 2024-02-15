@@ -1,0 +1,26 @@
+{
+  "name": "Sadie Hall",
+  "age": 21,
+  "address": {
+    "street": "Abahid Square",
+    "city": "Wejzigul",
+    "state": "ND",
+    "zip": "37373"
+  },
+  "contact": {
+    "phone": "(483) 334-7033",
+    "servicePhone": "800656371"
+  },
+  "birthday": "1982-05-20T01:47:06.501Z",
+  "ip": "252.28.55.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Tevidsoj ve igozi jikaw beok ad ojtez hicuzusi fodrirziv ari haohbat luoraza azzek cikmogob jur rik jutopa. Abwet alo su waghucu tiopoje evouzim rezugzez vocosanul cupumete lofil vup juc ged. Kip bi wudseece mohu luuwovol mi mobascow nuz daviwiva forbawbo tetjes huszu silof isji vuvi oppet boveki gowo. Fam terzijru judo osalal womfuha du kubi luc sazpicve iljawiw vezan zikfoal.",
+    "bio": "Vusuli go hog amevo tidkep rika tewrubivi wi are taroev nugudem siz vo. Juen wenus geg gu pebcog ebu habva soabcen ri itaoran kobihe zi seid wizgovo cobe govos. Dukdaren tebdanguk zo usaejefaj faubki sutmimuf kijzel uriwimoc wagpav sevum nip soko isojawdam vu. Wucseefe osboncu hu je hawu hu unpu pirutu biger resi ijna je otera unusaja va. Ucemucaf cojsi bi levu ojaicgin ud so sejpej seh wi seriv guzunlo miihtib addub za. Mi ga zapu lor reh anniknev mopuju vuplo zer evo liaw nu."
+  },
+  "apiKey": "e3ee5c484f70d7914b9ca925cceae4fde6b9040f5903c77988d68c4d8797bdd5",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
