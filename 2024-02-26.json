@@ -1,0 +1,26 @@
+{
+  "name": "Lee Jones",
+  "age": 28,
+  "address": {
+    "street": "Atimi Ridge",
+    "city": "Nicamah",
+    "state": "MD",
+    "zip": "04243"
+  },
+  "contact": {
+    "phone": "(634) 909-3883",
+    "servicePhone": "800727561"
+  },
+  "birthday": "1995-07-16T19:58:13.541Z",
+  "ip": "64.48.164.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Inebub suz taodhig amominhow wotci mihsibdos ge ram kijucalul ic kuiwe avi. Nozecu ros wokna coz bivu tuca zatna ucosoru otbas sudo vi atapijsu eliegulo aracutu da. Wualu se kam lenud amo ozouz hifzucil gehtoz gujawit almeg wigcun miodod gunfew. Mucvoni cozuz kalup cagif guder wikivgu nadad obeunos awu ek jezeruz gepovrij zucji ruade sisilowa gefhu ji. Kurtib ug vamobek noc abaleb ure vahunoweh efibihe ehu hu ol oz nu tovornih tuweju ovepi. Owu an feb ebe ju nohev junob ipga zotum ug iwzi ke hubpe ta nukvuho upiwuvel.",
+    "bio": "Segmaso ifo upoc festiz ugpiban inhenol rop soiv seigo bofu pivzogol ma gomowe. Pogetow injareb rokgiv sici tag cotaja perder pevef ter ahlacela cubrudgij sumo. Cakoba cawwir de pojvazsi uwobifaf gise gacuk de kufso ze ifezawis bonit."
+  },
+  "apiKey": "bf20fcf3f1342e2eff48d61f924c6aed5d1149fd93c1343806b61fe8e204ed5a",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
