@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Hill",
+  "age": 50,
+  "address": {
+    "street": "Husce Turnpike",
+    "city": "Cipdicaj",
+    "state": "VT",
+    "zip": "12620"
+  },
+  "contact": {
+    "phone": "(905) 578-3396",
+    "servicePhone": "800773695"
+  },
+  "birthday": "2005-08-05T23:42:21.198Z",
+  "ip": "127.146.228.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Vafuno dumu zi luclopamu mizevov hici hulme comilzuh di piwuvra johu fu lo. Nensa pijuzdis tupom mahec sugolsu ojna ewabip lobjosva jotcu duh lawot zul wucu opoej jud pu so. Lukcu kupib pik sug paf muhor jod nugu cekpusiv cibcejav useime biv ti codafsi. Fesahu hufotje rohe vomgujur cu eka ifa nejoiw zi kefteta kan le wo ujese po.",
+    "bio": "Ta fimek epi danfis gi sov pehse odoloc orwo hiwam jo da buuglid veancuc ucehu tefmenak. Noczubmo du cer coboncor ow wejwe jiug ilesozib dunem hujul bebjid parel. Gourewe okipa hen ogdu vokug eku bitmajhe wehokecut olareuzu opev erso mijrohota nuc cuhol vip kopab rinhimofi. Roopene zo irho ij uluhew geccipi nes kozi bakfo gor vuasce unukidi lic oni mo at az. Ebum mugfe akti hup do vo lacihin uzeramir sucolor woc isaelulo vemevtet munle huhot osi fuud ce. Hurpi vuapoful juzahu fika jolud pabeh sum mod ahohurni baecton fanufieha tabfoas hibogfeb."
+  },
+  "apiKey": "28b751886b88342dfce3a278837888624204da8e8c92086b11eb251dda3a910c",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
