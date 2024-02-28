@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Oliver",
+  "age": 38,
+  "address": {
+    "street": "Ponof Highway",
+    "city": "Uzodaluhi",
+    "state": "IN",
+    "zip": "36437"
+  },
+  "contact": {
+    "phone": "(405) 388-8215",
+    "servicePhone": "800982927"
+  },
+  "birthday": "1959-01-09T01:09:13.445Z",
+  "ip": "186.89.28.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Dujij wi mo nigispi kinzotles izizegi cu pidooci bagoz ij fahasiha nancof zuiwi. Ci okeraw ke jijvimim go izvemas jo jufeszi sogedreh kubge lu logviaro noh. Acuniga depne zuwre robtelem cus sadakuv zul busaz wawzuz saza uglulciz mernan veb sok wepihdi awzig tonvub.",
+    "bio": "Jov ka gedu jarwuz foid ora tokhe vim nizwa nuzudob sacantu omi. Zutabeso uf hovcim tol uhouvouv de is nofashuj ogone rehub avi janempic ohefupan uthaup mesupi viewora. Umfu pu duhi hehuphiw remow ev zucaid do ajaki mowkose ahu dabo rufolij parisman bagefni manuzag domli hicta. Obo ho tozahib pebsivu ojbez pagota jonehiv ane ijehe dullerru cov re."
+  },
+  "apiKey": "ed6d5c28de5e070abc147ec0ec4ce0e197468a7d59996772563ac2c04924a35d",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
