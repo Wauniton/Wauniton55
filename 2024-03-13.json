@@ -1,0 +1,26 @@
+{
+  "name": "Marc Larson",
+  "age": 46,
+  "address": {
+    "street": "Hije Pike",
+    "city": "Kiwowo",
+    "state": "KS",
+    "zip": "23589"
+  },
+  "contact": {
+    "phone": "(353) 816-1973",
+    "servicePhone": "800346689"
+  },
+  "birthday": "1978-10-05T07:10:06.105Z",
+  "ip": "26.59.152.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi ib ewoucgi awi gewogufar zusdoira elaru mu nadean elmufopo du ihido pis busujva. Je mehom vuk jak ne peikpi oresa paw oho vaciico odo ez wa fukbi sav juwez mewfez daces. Kiudwo vurhumser nofmuf ne natze bidoriban ecnouze zirodbup gub ri uceuhe cuape lu caidip boiffel. Haturu zawu vaddehil hemov mer ahduaja hubamuc gorid ju caf mesof zalevow ohukoju ubozakwof viotu vaz uruj.",
+    "bio": "Imde ceg za ohow oru cupug mi vi hal ek bir wufud mudujker sutludos tas. Rojaado kif ovohemo zorpiz ivbaka ob kanezwe wejlumi purev zisi juphedat sokho ulgav aluka kakupaka. Tolid guip aciojoulo emnegod fede esi surupi nikore cosen zal go no uhuvuf. Ukehebid ticabub funok vimo akuoku no eweac ona tepecfek sev ga tahmaplo ca lowlaewi be nu kot. Pof ojna locjaem fo siwag pimveba soeze cecitecu se ko vulela ki pal iv cudedop feguzu. Modu pepde dof ozuv dar to nabli pob ku tiwejep gumbecu ilzuf zu ide ram."
+  },
+  "apiKey": "cc79b8ae6733cdc0a93bbbe62892513ac48ed101d7eb7efbbc600e0c838bcce6",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
