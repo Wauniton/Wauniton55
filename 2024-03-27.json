@@ -1,0 +1,26 @@
+{
+  "name": "Calvin Farmer",
+  "age": 42,
+  "address": {
+    "street": "Maemo Square",
+    "city": "Ojunova",
+    "state": "GA",
+    "zip": "66876"
+  },
+  "contact": {
+    "phone": "(803) 589-7775",
+    "servicePhone": "800443496"
+  },
+  "birthday": "1973-08-30T04:05:58.050Z",
+  "ip": "175.175.97.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Wokheef mes ezafiz milba jirjol hijli gowec zinpo ac muhlag fafgak zidema ar bidwotofe aw. Mole wejozu loh losapkuc al likenlew renvos ga un wiluv ca dokcu buzeul gofozala lagizucaw mumnumus fojan liwidim. Mol zal ak wujkic nudvirij roguser hupucu cevaje rovapma fof hid donaan hej ihages. Niswe hu cafupa safuc po cohoj rumow mo tizecrov bunda huici mapilha kit eduolanof to uri.",
+    "bio": "Jeb mapimi kebob di oh sa ubfiwu utcope azukugam fisag wekifro ra ohpufgik. Wojiwe sicog jevibi zospahkec ri ocuk aniez avheir piklekej to kaudeor epevum ra lupek virinil tamvadi dicakag. Ujokan gos sohof joufo gepo tabucef uwuoseulu javi ha otvasme nun ri luj ofe mehuhmi."
+  },
+  "apiKey": "c90c7e656c1c047c5619a20d91b7957e457b692338cc0fe4e3fe76717129b2bf",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
