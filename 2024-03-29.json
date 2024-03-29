@@ -1,0 +1,26 @@
+{
+  "name": "Ora Hardy",
+  "age": 56,
+  "address": {
+    "street": "Uzzad Street",
+    "city": "Puvliwi",
+    "state": "ME",
+    "zip": "28808"
+  },
+  "contact": {
+    "phone": "(684) 589-7927",
+    "servicePhone": "800359346"
+  },
+  "birthday": "1994-12-28T17:08:56.700Z",
+  "ip": "170.44.16.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Pizus inacoflif gamar kevinak wunejolah wubu kup galfomi on waf filiwdet ek ow uzocetiv ajupi. Kolveev naj emzuhfo ijumugagi da ihizoste honad egit mada duwus pe duksognur tojlekke rafgocco ipobo wid. Vokega jaffu ov tite uf su nud avopug welge zowalep urjit mica hufi pudmevhub uj lidhuz. Hum wuha begguzfij tajha dodogo zujajgu sajizi ucpilec gijvoizi pagin vilcevego vurovuc vaw uk du. Riw wozwoli uju kaf hon su gur refuk sacto he ede kozukreb tiiteun pos. Bukus igijuc garde jat cedsituk wooru ibaigsa vabu ezmojrom pika jonnetsaj so emteke bulbajni ricta daz naz.",
+    "bio": "Pocafa dabdulic ginusu ebder nombuf hota ikuilsu koh kivohpe lozkiltu ruoselab ego janu uzuzitu razacuniv nowkawus ab. Jishangan wa vi ruwev sila vawouk zen sokezcim juwtiet irgojtu aladumeke fisho vufomu jacwaklo hibpad koslis wu. Gus zi le bosat uko fino wili ep alpuccoz cohude lil gekikuc tipa."
+  },
+  "apiKey": "4b84da2b4f981c001a34bd228ea4b5cd5653530bc190ce148be2143031b8a5f0",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
