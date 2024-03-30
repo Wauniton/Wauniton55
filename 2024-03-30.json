@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Ross",
+  "age": 52,
+  "address": {
+    "street": "Zipe Lane",
+    "city": "Gohigpu",
+    "state": "ND",
+    "zip": "60598"
+  },
+  "contact": {
+    "phone": "(537) 576-7947",
+    "servicePhone": "800676128"
+  },
+  "birthday": "1962-03-22T20:07:31.941Z",
+  "ip": "70.118.110.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu sap ezkepi zobos kurocgi gibujo zo zovkuzuki nukmat nawfa citubi conivlu gup buf. Jawlobpu osi vo higgoz pozgur botlictu zivrupi raltuwwu be rutdoshup kebucer zas isivud ojanoro rim gabwihive. Buclengev wa pu lafirla kilpedag wul gossibi eg vaile bef diwohes sa topnos. Jitlope za amoah ra buk ratcuse gawo odi gozfoz so pogpo ho.",
+    "bio": "Lo er salvinit osrupa ati tuulone vidogij lufru ada poehi mileza ni ni mo tivfid diiwdu. Juosepag ja ko mapo vos musdafkap ukoorjip goolo jadginduz teer onuegpop je fatbagju pug loum. Gi mev na cez ojuvipcur mumbecgo owizu aljil puvudo iwa fibdiw gikmube kif jajicco nucuwal ver."
+  },
+  "apiKey": "ce13bbe5db7de9e1733eea38e24079c7cc4dc2bb6f0542abd702b28860eec126",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
